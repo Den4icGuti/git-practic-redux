@@ -1,0 +1,41 @@
+.addForm {
+   width: 300px;
+   border: solid 1px cornflowerblue;
+  padding: 10px;
+  margin: 0 auto;
+}
+
+label {
+  display: flex;
+  flex-direction: column;
+  padding-top: 8px;
+}
+
+.dtnAdd {
+  display: block;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+h2 {
+  margin: 0;
+  padding: 0;
+}
+
+.titleForm {
+  text-align: center;
+}
+
+
+
+.btnAdd{
+  display: block;
+  margin: 0 auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: inherit;
+  border-radius: 4px;
+  padding: 5px;
+
+}
+
